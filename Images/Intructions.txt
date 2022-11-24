@@ -1,1 +1,3 @@
 Download these images, for the proper functioning of User interface of the game.
+Save all the downloaded images into your C drive.
+NOTE: Do not change the name of the image file
